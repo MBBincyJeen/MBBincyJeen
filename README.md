@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MBBincyJeen
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning web development
 - 😄 Pronouns: She/Her
 
 <!---
